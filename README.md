@@ -18,3 +18,7 @@ In conclusion, this encryption is good only when:
 3. The key is quite long, with multiple spaces and words
 
 While I can't think of use to it now, I think it's still kinda cool
+
+## Algorithm
+
+![pic](https://github.com/UriahShaulMandel/Uriah-s-Symmetric-Encryption/blob/master/USE.png?raw=true)
