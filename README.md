@@ -25,4 +25,8 @@ Feel free to try! [here's a download link](https://github.com/UriahShaulMandel/U
 
 ## Algorithm
 
+### Code:
+https://github.com/UriahShaulMandel/Uriah-s-Symmetric-Encryption/blob/997adcfd6c9a375163e1904f47d1366dc8b0b8bf/main.cpp#L119
+
+## Picture:
 ![pic](https://github.com/UriahShaulMandel/Uriah-s-Symmetric-Encryption/blob/master/USE.png?raw=true)
