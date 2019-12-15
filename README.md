@@ -19,6 +19,8 @@ In conclusion, this encryption is good only when:
 
 While I can't think of use to it now, I think it's still kinda cool
 
+Feel free to try! [here's a download link](https://github.com/UriahShaulMandel/Uriah-s-Symmetric-Encryption/raw/master/Uriah's%20Symmetric%20Encryption.exe)
+
 ## Algorithm
 
 ![pic](https://github.com/UriahShaulMandel/Uriah-s-Symmetric-Encryption/blob/master/USE.png?raw=true)
