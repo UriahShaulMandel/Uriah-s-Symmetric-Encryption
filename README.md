@@ -19,4 +19,6 @@ In conclusion, this encryption is good only when:
 
 While I can't think of use to it now, I think it's still kinda cool
 
-[![https://github.com/UriahShaulMandel/Uriah-s-Symmetric-Encryption/blob/master/USE.png?raw=true](pic)]()
+## Algorithm
+
+![pic](https://github.com/UriahShaulMandel/Uriah-s-Symmetric-Encryption/blob/master/USE.png?raw=true)
