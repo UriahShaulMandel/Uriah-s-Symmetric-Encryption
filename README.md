@@ -1,4 +1,4 @@
-# Uriah-s-Symmetric-Encryption
+# Uriah's Symmetric Encryption
 
 This encryption is based on the one-time pad encryption method, which, when used once, cannot be cracked
 This program takes an ascii key, and divides it to multiple keys using the space char
