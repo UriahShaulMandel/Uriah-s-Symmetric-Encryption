@@ -1,8 +1,10 @@
 # Uriah's Symmetric Encryption
 
 This encryption is based on the one-time pad encryption method, which, when used once, cannot be cracked
+
 This program takes an ascii key, and divides it to multiple keys using the space char
 It then XORs each char from the original message with the key[0][counter++ % key[0].length()], key[1][counter++ % key[1].length()]....
+
 Mathematically, it's just a pseudo-random generator for a one-time pad long xor key,
 But the catch about it is that extremely long textual key can be used easily
 
