@@ -1,4 +1,4 @@
-# Uriah's Symmetric Encryption
+# Uriah's Symmetric Encryption ![GitHub top language](https://img.shields.io/github/languages/top/UriahShaulMandel/Uriah-s-Symmetric-Encryption)
 
 This encryption is based on the one-time pad encryption method, which, when used once, cannot be cracked
 
